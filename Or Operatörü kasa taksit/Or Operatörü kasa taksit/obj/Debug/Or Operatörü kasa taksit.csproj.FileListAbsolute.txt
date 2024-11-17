@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\10-M\Or Operatörü kasa taksit\Or Operatörü kasa taksit\bin\Debug\Or Operatörü kasa taksit.exe.config
+C:\Users\user\Desktop\10-M\Or Operatörü kasa taksit\Or Operatörü kasa taksit\obj\Debug\Or_Operatörü_kasa_taksit.Form1.resources
+C:\Users\user\Desktop\10-M\Or Operatörü kasa taksit\Or Operatörü kasa taksit\obj\Debug\Or_Operatörü_kasa_taksit.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Or Operatörü kasa taksit\Or Operatörü kasa taksit\obj\Debug\Or Operatörü kasa taksit.csproj.GenerateResource.Cache
